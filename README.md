@@ -240,4 +240,4 @@ This repository serves as the official landing page for Nero MediaHome. The soft
 **Get the most recent version of Nero MediaHome today!**
 
 ---
-**Last updated:** 2026-09-21 09:44:10 UTC
+**Last updated:** 2026-09-21 16:18:06 UTC
